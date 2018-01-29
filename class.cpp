@@ -45,5 +45,13 @@ int main(){
 
 	
 	}
+void JamTangan::JenisJamTangan(string JamTangan){
+	cout <<"\n"<<"merk "<<JamTangan<<endl;
+}	
+void JamTangan::HargaJamTangan(string harga){
+	cout <<"\n"<<"harga "<<harga<<endl;
+}
+void JamTangan::JumlahJamTangan (int jumlah){
+	cout <<"\n"<<"jumlah "<<jumlah<<endl;
 
 }
